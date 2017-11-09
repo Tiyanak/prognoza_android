@@ -6,7 +6,7 @@ package prognoza.tvz.hr.prognoza.model
 
 data class Vrijeme(val city: City,
                    val coord: Coord,
-                   val county: String,
+                   val country: String,
                    val cod: Int,
                    val message: Double,
                    val cnt: Int,

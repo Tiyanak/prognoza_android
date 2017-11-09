@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Prognoza</string>
     <string name="api_key">6921129bd64c539ec4c029d731cb4944</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
 </resources>
